@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-CodeScene is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://codescene.com/
+CodeScene provides AI‑enhanced code analysis tools that help software teams visualize technical debt, prioritize refactoring, and ensure safe AI‑assisted coding. Their platform combines behavioral code analysis, CodeHealth metrics, and integrations with IDEs, CI pipelines, and popular version‑control systems to deliver actionable insights and guardrails that improve code quality and reduce defect risk.
+
+**Areas:** Company · AI · Code Analysis · Technical Debt · DevOps
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://codescene.com/)
+- [Documentation](https://codescene.io/docs/index.html)
+- [Getting started](https://codescene.io/docs/getting-started/index.html)
+- [API reference](https://codescene.io/docs/integrations/rest-api.html)
+- [Pricing](https://codescene.com/pricing/)
+- [Sign up](https://codescene.com/product/free-trial)
+- [Support](https://helpcenter.codescene.com/en/help)
+- [Changelog](https://community.codescene.com/changelog)
+- [Blog](https://codescene.com/blog)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/codescene/](https://apis.io/providers/codescene/).
